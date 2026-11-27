@@ -7,6 +7,6 @@ int quantity = 10;
 int total = seats * quantity;
 cout << "The total is : " << total;
 
-cout << "Hello World" << endl;
+cout << "Momin File!" << endl;
 
 }
