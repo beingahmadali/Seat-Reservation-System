@@ -1,0 +1,5 @@
+-> Dummy Data output declared in types.h:
+3
+BUS B-101 Islamabad-Lahore 10 4 2500
+TRAIN T-202 GreenLine-Karachi 12 4 4800
+AIRLINE F-303 PK-301-Isb-Khi 15 6 18500
